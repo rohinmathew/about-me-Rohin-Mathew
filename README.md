@@ -13,7 +13,7 @@ I'm Rohin Mathew, a passionate Coding student transitioning from Biotech Enginee
 - **Bachelor of Technology in Biotechnology & Biochemical Engineer**
   [University of Kerala]
   
-  - **Graduate Cert in Environment Management**
+- **Graduate Cert in Environment Management**
     [Canadore College of Applied Science]
 
 
